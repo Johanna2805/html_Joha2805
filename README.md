@@ -28,3 +28,5 @@ Este proyecto se genero para implementar una pagina con html y ccs y repositorio
 
 
     Este proyecto esta bajo la licencia MIT
+
+## Seccion repo remoto
